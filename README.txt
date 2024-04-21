@@ -1,3 +1,23 @@
+This is Grass' fork of the Marketbot
+https://github.com/ian2102/Market-Bot/tree/main
+
+This bot can crawl between pages
+
+To use you are going to have to change the coordiantes for each click.
+To change what pages you want to crawl all you have to do is add strings to the "items" list near the start of the program
+
+ISSUES and BUGS
+This bot CANNOT switch between coloumns so it cannot track the left colum for mystic gem or skull key and the right coloumn for stackable consumables at the same time.
+
+The market page becomes laggy and unresponsive, the bot should face issues at the 3 Hour mark, Fix is in development.
+
+
+
+
+
+
+
+
 Setup Guide
 
 Install Python:
