@@ -1,10 +1,4 @@
-text = """
-Market Master by Ian
-This version is by Grass
-Join our Discord server:
-Dark Investments Chamber of Commerce | D.I.C.C
-https://discord.gg/khQyWQHK
-"""
+#Grass' fork of the Market Bot
 import pyautogui
 import pytesseract
 import time
