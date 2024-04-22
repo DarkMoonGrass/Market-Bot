@@ -42,6 +42,7 @@ time.sleep(3)
 #===================Search and Get===================
 #====================================================
 while True:
+    #This if statment removes itself from the market page and loads back in after 20 loops
     if IMsShittyCoding == 20:
         pyautogui.moveTo(162, 43, duration=0.01)
         pyautogui.click(162, 43)
